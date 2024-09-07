@@ -1,4 +1,5 @@
-Imersão Alura com Google Gemini - Projeto Sanrio ♡
+imersão alura com google gemini - projeto sanrio ♡
+
 
 **o que é este projeto?**
 
